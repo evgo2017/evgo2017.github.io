@@ -8,12 +8,20 @@ self.__precacheManifest = [
     "url": "js/about.95ab5725.js"
   },
   {
-    "revision": "269642c5ff4e3407e3e7",
+    "revision": "5533408044e1b18f4eef",
     "url": "css/app.c4d05bf5.css"
   },
   {
-    "revision": "269642c5ff4e3407e3e7",
-    "url": "js/app.c3c8098a.js"
+    "revision": "5533408044e1b18f4eef",
+    "url": "js/app.b5b2caa7.js"
+  },
+  {
+    "revision": "22a399d165fdc2bde47f",
+    "url": "css/chunk-00cdafe6.75996d59.css"
+  },
+  {
+    "revision": "22a399d165fdc2bde47f",
+    "url": "js/chunk-00cdafe6.c9d46525.js"
   },
   {
     "revision": "f40e6f1b3338503ac593",
@@ -22,14 +30,6 @@ self.__precacheManifest = [
   {
     "revision": "f40e6f1b3338503ac593",
     "url": "js/chunk-27dfb58e.51b862d2.js"
-  },
-  {
-    "revision": "d803508ee1035952a0bc",
-    "url": "css/chunk-f9a3f518.11d42b5b.css"
-  },
-  {
-    "revision": "d803508ee1035952a0bc",
-    "url": "js/chunk-f9a3f518.0ef4ebbb.js"
   },
   {
     "revision": "433e7b88cfb6f31450c8",
@@ -48,7 +48,7 @@ self.__precacheManifest = [
     "url": "fonts/element-icons.6f0a7632.ttf"
   },
   {
-    "revision": "1e89934dc15059376ea7596f7b76d5ca",
+    "revision": "ab356334631de0505a3e617537f6d0aa",
     "url": "index.html"
   },
   {
@@ -88,11 +88,11 @@ self.__precacheManifest = [
     "url": "img/projects/JSExercises.png"
   },
   {
-    "revision": "1225f9d23060c6d2630fb355b015b1de",
-    "url": "img/projects/office2Pdf.PNG"
+    "revision": "61c924c444c2761c1b7693ca9deaa5bd",
+    "url": "img/projects/addressListByJava.jpg"
   },
   {
-    "revision": "a665f635b054bba6cf5eb17f749c56c9",
-    "url": "img/projects/addressListByJava.PNG"
+    "revision": "1225f9d23060c6d2630fb355b015b1de",
+    "url": "img/projects/office2Pdf.png"
   }
 ];
