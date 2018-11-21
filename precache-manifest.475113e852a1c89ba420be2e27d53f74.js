@@ -8,12 +8,12 @@ self.__precacheManifest = [
     "url": "js/about.95ab5725.js"
   },
   {
-    "revision": "5533408044e1b18f4eef",
-    "url": "css/app.c4d05bf5.css"
+    "revision": "7384d7f098f0b2c44202",
+    "url": "css/app.f6ad67b8.css"
   },
   {
-    "revision": "5533408044e1b18f4eef",
-    "url": "js/app.b5b2caa7.js"
+    "revision": "7384d7f098f0b2c44202",
+    "url": "js/app.0c621298.js"
   },
   {
     "revision": "22a399d165fdc2bde47f",
@@ -48,16 +48,20 @@ self.__precacheManifest = [
     "url": "fonts/element-icons.6f0a7632.ttf"
   },
   {
-    "revision": "ab356334631de0505a3e617537f6d0aa",
+    "revision": "c539abd3fddf7a8924bf74e2ac4ee13c",
     "url": "index.html"
   },
   {
-    "revision": "eee47d420f06da148afb6fe7fb236bba",
-    "url": "img/links/douban.svg"
+    "revision": "f18a62fac2942c035ecdb8e629f53bf0",
+    "url": "CNAME"
   },
   {
     "revision": "892c7bfa95f783c29983e30876722726",
     "url": "img/links/github.svg"
+  },
+  {
+    "revision": "eee47d420f06da148afb6fe7fb236bba",
+    "url": "img/links/douban.svg"
   },
   {
     "revision": "d37eed73363fb79cc55fcd5a81d0948d",

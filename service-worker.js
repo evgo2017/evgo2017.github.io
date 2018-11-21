@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.b79c184618f47dd24e5241ed51fed7b6.js"
+  "precache-manifest.475113e852a1c89ba420be2e27d53f74.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "evgo"});
